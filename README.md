@@ -7,7 +7,7 @@ Open the Sublime Text 3 console (`View->Show Console`) then type `import os.path
 # how to set up keybindings for commands?
 Open the keybindings window (`Preferences->Key Bindings`). To the right (or lower) pane, add relevant lines of the following form:
 
-```json
+```javascript
 [
 	// ... all the other stuff already present in the file, if any.
 	// (Make sure a comma is the final char.)
